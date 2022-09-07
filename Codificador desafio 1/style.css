@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: o;
+    
+}
+
+body {
+    background-color: #E5E5E5;
+}
+
+header {
+    width: 100%;
+    height: 50%;
+    /*background-color: aquamarine;*/
+}
+
+main {
+    width: 100%;
+    height: 90%;
+    /*background-color: brown;*/
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    width: 40%;
+    height: 100%;
+    /*background-color: darkgreen;*/
+}
+
+.secao1 {
+    width: 70%;
+}   
+
+.area {
+    width: 80%;
+    height: 70%;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    resize: none;
+    font-size: 25px;
+    color: darkblue;
+}
+
+.btn-criptografar {
+    background-color: darkblue;
+    border-radius: 10px;
+    color:#fff;
+}
+
+.btn-desencriptografar {
+    background-color: rgb(176, 176, 212);
+    border-radius: 10px;
+}
+
+.btn-criptografar, .btn-desencriptografar{ 
+     width: 25%;
+     height: 40px;
+     
+}
+
+.recipiente-botoes{
+    text-align: center;
+    margin-top: 30px;
+    edge-radius: 15px;
+    colo: rgb(180, 180, 194);
+     
+    
+}
+
+.secao2 {
+    width: 20%;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-right: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.recipiente-boneco{
+    width: 100%;
+    height: 60%;
+    padding-top: 80%;
+    box-sizing: border-box;
+    overflow: auto;
+    background-color: rgb(191, 253, 233);
+}
+
+.recipiente-h3 {
+    width: 100%;
+    height: 20%;
+    text-align: center;
+}
+
+.recipiente-paragrafo {
+    width: 100%;
+    height: 20%;
+    text-align: center;
+}
+
+.recipiente-resultado {
+     width: 100%;
+     height: 70%;
+     padding: 25px;
+     box-sizing: border-box;
+}
+
+.recipiente-copiar {
+    width: 100%;
+    height: 20%;
+}
+
+.btn-copiar {
+    width: 35%;
+    height: 40px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    background-color: aquamarine;
+    
+}
+
+footer {
+    width: 100%;
+    height: 50%;
+    /*background-color: darkcyan;*/
+    text-align: center;
+}
+
+.ocultar {
+    display: none;
+}
+.informacao {
+    font-size: 15px;
+    color: #493737;
+    text-align: center;
+    margin-top: 30px;
+   
+}
