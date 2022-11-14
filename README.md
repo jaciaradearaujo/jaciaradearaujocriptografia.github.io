@@ -3,7 +3,7 @@
 
 
 <p align="center" >
-     <img width="600" heigth="600" src="Codificador desafio 1.gif">
+     <img width="600" heigth="600" src="Codificador.gif">
 </p>
 
 #### Marque esse projeto com uma estrela ⭐
