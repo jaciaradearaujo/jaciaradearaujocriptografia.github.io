@@ -5,7 +5,6 @@
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/91544872/157673876-2c51fc09-5bed-48c0-aad3-97fc7fa64d1d.png">
 </p>
-<iframe src="https://drive.google.com/file/d/12UcCkQVFyQXB1hYgLWnl0fmn6i7lEOLn/preview" width="640" height="480"></iframe>
 
 #### Marque esse projeto com uma estrela ⭐
 #### Siga as instruções das aulas e conteúdos 📚
