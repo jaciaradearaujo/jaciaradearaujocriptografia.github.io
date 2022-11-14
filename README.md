@@ -3,7 +3,7 @@
 
 
 <p align="center" >
-     <img width="600" heigth="600" src="Codificador.gif">
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/109833305/201591885-3ff0d3bb-9958-44a7-84f3-2d3efb8cfeb4.gif">
 </p>
 
 #### Marque esse projeto com uma estrela ⭐
