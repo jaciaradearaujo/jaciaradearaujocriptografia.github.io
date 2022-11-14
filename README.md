@@ -1,4 +1,4 @@
-# Challenge ONE | Lógica de Programação - Decodificador de texto
+# Challenge ONE | Lógica de Programação - Codificador de texto
 ### Seja bem vindo ao projeto base do Decodificador de texto! Passos fundamentais:
 
 
